@@ -1,0 +1,53 @@
+
+body {
+  background-image: linear-gradient(#000000, #4b2d00);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  color: #d6d6ea;
+}
+
+.container-aplicativo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+button {
+  background-color: inherit;
+  color: inherit;
+  border: none;
+  cursor: pointer;
+}
+
+.music-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#informacoes-faixa {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0.5rem 0 0.5rem 0;
+  font-size: 1.5rem;
+}
+
+
+#anterior, #proximo {
+  font-size: 3rem;
+}
+
+#play-pause {
+  font-size: 4rem;
+}
+
+#container-botoes {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
