@@ -25,7 +25,9 @@ O projeto é composto pelos seguintes arquivos e diretórios:
 - 🗂 **`index.html`** → Página principal do projeto  
 - 🎨 **`styles.css`** → Arquivo de estilos CSS  
 - ⚡ **`script.js`** → Código JavaScript com os exercícios  
-- 📄 **`README.md`** → Documentação do projeto  
+- 📄 **`README.md`** → Documentação do projeto
+- 🖼 **`/images`** → Pasta contendo as imagens utilizadas no projeto  
+- 📚 **`/books`** → Arquivos do audiobook  
 
 ---
 
